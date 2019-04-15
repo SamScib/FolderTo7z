@@ -1,0 +1,13 @@
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\obj\Debug\FolderTo7z.MainForm.resources
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\obj\Debug\AutoBackupToZipTool.Properties.Resources.resources
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\obj\Debug\FolderTo7z.csproj.GenerateResource.cache
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\obj\Debug\FolderTo7z.csproj.CoreCompileInputs.cache
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\obj\Debug\AutoBackupToZipTool.exe
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\obj\Debug\AutoBackupToZipTool.pdb
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\bin\Debug\NLog.config
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\bin\Debug\AutoBackupToZipTool.exe.config
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\bin\Debug\AutoBackupToZipTool.exe
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\bin\Debug\AutoBackupToZipTool.pdb
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\bin\Debug\NLog.dll
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\bin\Debug\NLog.xml
+C:\Users\scibe\OneDrive\Desktop\AutoBackupToZipTool\AutoBackupToZipTool\obj\Debug\FolderTo7z.csproj.CopyComplete
